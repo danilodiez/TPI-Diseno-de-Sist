@@ -1,5 +1,3 @@
-
-
 head {
 margin: 0px;
 align-content: center
@@ -42,16 +40,18 @@ img {
    text-align: center;
    border-radius:30px;
    margin:auto;
+   font-weight: bold;
 }  
 
 .Usuario{
+    font-family: 'Raleway', sans-serif;
     background-color: blanchedalmond;
     margin-left:auto; 
     border-radius: 40px;
 }  
 
 .Contra{
-
+    font-family: 'Raleway', sans-serif;
     background-color: blanchedalmond;
     margin-left:auto; 
     border-radius: 40px;
@@ -68,3 +68,4 @@ font-family: 'Raleway', sans-serif;
 text-align: center;
 border-radius: 20px;
 }
+
