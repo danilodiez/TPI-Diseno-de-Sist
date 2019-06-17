@@ -9,7 +9,6 @@ h1{
     display: block;
     font: 200;
     text-align: center
-
     
 }
 
@@ -35,7 +34,7 @@ img {
 
 .IngresoDatos{
    background-color: black;
-   width:20%;
+   width:25%;
    height:200%;
    text-align: center;
    border-radius:30px;
@@ -46,21 +45,23 @@ img {
 .Usuario{
     font-family: 'Raleway', sans-serif;
     background-color: blanchedalmond;
-    margin-left:auto; 
+    width:45%;
     border-radius: 40px;
+    
 }  
 
 .Contra{
     font-family: 'Raleway', sans-serif;
     background-color: blanchedalmond;
-    margin-left:auto; 
+    width:45%; 
     border-radius: 40px;
 }  
 
 .BotonIng{
     background-color: green;
     color: whitesmoke;
-    text-align: center
+    text-align: center;
+    font-weight: bold;
 }
 
 .BotonIng{
