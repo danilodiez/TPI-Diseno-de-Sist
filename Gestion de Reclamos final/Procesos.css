@@ -1,0 +1,154 @@
+*{
+   margin:0;
+   padding: 0;
+   box-sizing: border-box; 
+
+}
+
+header{
+font-family: 'Muli', sans-serif;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(to bottom right,#d7c9aa, #f0f3f5);
+
+}
+
+
+.tit{
+margin-top:1%;
+font-size: x-large;
+font-weight: bold;
+
+
+
+}
+
+.Procesos{
+
+    margin-top: 2%;
+    height:100%;
+    background: white;
+}
+
+.tabProc{
+    overflow:hidden;
+    border: 2px solid black;
+    padding: 8px;
+    border-collapse: collapse;
+    width: 100%;
+    height: 100%;
+}
+
+
+th{
+    border: 4px solid black;
+    background: #0b7a75;
+    cursor:pointer;
+    color:black;
+}
+
+tr:focus, tr:hover{
+    background: rgba(124,43,38,0.5);
+}
+
+td{
+    border: 2px solid black;
+
+}
+
+
+.Inst-Rec{
+
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 35%;
+    margin-bottom: 2%;
+    font-size: xx-large
+}
+
+/*aca estan los checkbox del instalacion y reclamos para las vistas*/
+.bot{
+    display: none;
+    border: 10px solid black;
+    text-align: left;
+    
+}
+
+.img-bot{
+    cursor: pointer;
+    height: auto;
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+.Operaciones{
+
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: xx-large;
+    margin-bottom: 2%;
+
+
+
+}  
+
+a{
+    text-decoration:none;
+    border: 2px solid black;
+    margin-left:10px;
+    border-radius: 15px;
+    color:white
+
+}
+
+.confirmar{
+    background: rgb(11, 122, 117);
+    width:auto;
+
+}
+
+.visual{
+background:rgb(128, 128, 128, 0.5)
+
+}
+
+
+i {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+  .flec-abajo {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+
+  .buscador{
+      position: absolute;
+    top:2%;
+    right:7%;
+
+  }
+
+  .buscador span{
+    border: 2px solid black;
+    border-radius: 10px;
+    background: rgba(224, 228, 25, 0.5)
+  }
+
+  .imp{
+      position: absolute;
+    height: 20px;
+    width: 40px;
+    top:2%;
+    right:-25%;
+    cursor: pointer;
+  }
