@@ -1,0 +1,41 @@
+#s-adf795ae-aef1-45f0-9864-f08dc8104cff {
+  -pie-background: linear-gradient(to bottom,#D7C9AA,#F0F3F5);
+  -pie-poll: false;
+}
+#s-adf795ae-aef1-45f0-9864-f08dc8104cff #s-Rectangle_2 {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #000000;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #000000;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #000000;
+  border-radius: 2px 2px 2px 2px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-adf795ae-aef1-45f0-9864-f08dc8104cff #s-Rectangle_3 {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #777777;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #777777;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #777777;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #777777;
+  border-radius: 2px 2px 2px 2px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-adf795ae-aef1-45f0-9864-f08dc8104cff > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

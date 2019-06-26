@@ -1,0 +1,21 @@
+#s-27b83016-a189-4ad0-b326-87a66a355a52 #s-Rectangle_2 {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #DDDDDD;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #DDDDDD;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #DDDDDD;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #DDDDDD;
+  border-radius: 2px 2px 2px 2px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-27b83016-a189-4ad0-b326-87a66a355a52 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

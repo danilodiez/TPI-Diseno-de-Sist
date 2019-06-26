@@ -1,0 +1,90 @@
+#s-3473e71a-cc4e-42a9-8534-b26665fff8fb > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-3473e71a-cc4e-42a9-8534-b26665fff8fb > #alignmentBox {
+  position: relative;
+  max-width: 1024px;
+  max-height: 768px;
+  margin: 0 auto;
+}
+#s-3473e71a-cc4e-42a9-8534-b26665fff8fb #s-Browser_1 {
+  position: absolute;
+  width: 1023px;
+  height: 669px;
+  box-shadow: none;
+}
+#s-3473e71a-cc4e-42a9-8534-b26665fff8fb #s-Rectangle_2 > .backgroundLayer {
+  height: calc(100% + -2px);
+  width: calc(100% + -2px);
+  background-color: #0B7A75;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #DDDDDD;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #DDDDDD;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #DDDDDD;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #DDDDDD;
+  border-radius: 2px 2px 2px 2px;
+  box-shadow: none;
+}
+#s-3473e71a-cc4e-42a9-8534-b26665fff8fb #s-Rectangle_2 {
+  position: absolute;
+  width: 160px;
+  height: 43px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  cursor: pointer;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 10.0pt;
+  font-family: 'OpenSans-Regular',Arial;
+}
+#s-3473e71a-cc4e-42a9-8534-b26665fff8fb #s-Rectangle_2 > .clipping, #s-3473e71a-cc4e-42a9-8534-b26665fff8fb #s-Rectangle_2 > .paddingLayer {
+  height: 41px;
+  width: 158px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+#s-3473e71a-cc4e-42a9-8534-b26665fff8fb #s-Rectangle_2 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-3473e71a-cc4e-42a9-8534-b26665fff8fb #s-Rectangle_2 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'OpenSans-Regular',Arial;
+  font-size: 10.0pt;
+}
+#s-3473e71a-cc4e-42a9-8534-b26665fff8fb #s-Rectangle_2 span#rtr-s-Rectangle_2_0 {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'OpenSans-Regular',Arial;
+  font-size: 10.0pt;
+  line-height: 0px;
+}
+#s-3473e71a-cc4e-42a9-8534-b26665fff8fb > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
