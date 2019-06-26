@@ -1,0 +1,11 @@
+C:\Users\Anastacius\Documents\RepoPagina\TPI-Diseno-de-Sist\Gestion de Reclamos final
+
+Bugs
+
+dirigir reclamo a mapa
+registrar instalacion en mapa
+cambiar descripcion de problema a descripcion de llamada
+motivo instalacionnn
+borrar una linea en procesos
+boton cambiar estado algun efectito en gestion de procesos
+alinear botoncitos en informe y titulo
